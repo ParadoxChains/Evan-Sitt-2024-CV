@@ -1,4 +1,4 @@
-# Evan Sitt Resume 2021 Edition (Goodbye 2020!)
+# Evan Sitt Resume 2024 Edition (Newly Updated!)
 ----
 Greetings there!\
 If you're here, I suppose you were looking for my resume in particular, or you were happening upon one of my repositories.\
